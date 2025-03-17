@@ -164,3 +164,18 @@ aside ul li a:hover {
     color: #ffd700;
 
 }
+
+.profile1 {
+    position: absolute;
+}
+
+.name1 {
+    padding-left: 140px;
+}
+.name2 {
+    padding-top: 70px;
+}
+.art1 {
+    padding-top: 60px;
+}
+
